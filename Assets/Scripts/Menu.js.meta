@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 4f440534c8ce56f4bb00d7cd92bb168c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - widelogo: {fileID: 2800000, guid: 022c3dfd5f0fda24c97eb054195ce56b, type: 3}
+  - ModelGUISkin: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
